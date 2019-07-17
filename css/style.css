@@ -1,0 +1,99 @@
+		body
+		{
+			font-family: Helvetica,Arial,sans-serif; 
+		}
+			.pacifico
+			{
+				font-family: 'Indie Flower', cursive;
+			}
+		.title
+		{
+			font-size:2.5em;
+			margin-top:0;
+		}
+		.body
+		{
+			padding:60px 15px;
+
+		}
+		.main-header
+		{
+		border-radius:4px;
+		background-color:#34495E;
+		padding-left:15px;
+		padding-right:15px;
+		padding-left:15px;
+		padding-top:10px;
+		padding-bottom:10px
+
+		}
+		.nav-link
+		{
+			color:white;
+			text-decoration: none;
+			width:33%;
+			display: inline-block;
+			margin-right:-4px;
+		}
+		.text-center
+		{
+			text-align:center;
+		}
+		.red-text
+		{
+			color:#E74C3C;
+		}
+		.main-container
+		{
+			min-height: 100vh;
+		}
+		.product h3
+		{
+			font-size:1.7em;
+			margin-top:5px;
+			margin-bottom:5px;
+			font-family: 'Indie Flower', cursive;
+		}
+		.product img
+		{
+			width:100px;
+		}
+		.card
+		{
+			border-radius:8px;
+			background-color:white;
+			box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+		}
+		.threeD
+		{
+			text-shadow: 1px 3px 0px #6b251d, 1px 13px 5px rgb(171,168,168);
+		}
+		.delay-1
+		{
+			animation-delay:0.1s;
+			position:relative;
+			z-index:3;
+		}
+		.delay-2
+		{
+			animation-delay:0.3s;
+			position:relative;
+			z-index:3;
+		}
+		.delay-3
+		{
+			animation-delay:0.5s;
+			position:relative;
+			z-index:3;
+		}
+		.delay-4
+		{
+			animation-delay:0.7s;
+			position:relative;
+			z-index:4;
+		}
+		.link
+		{
+			color:black;
+			text-decoration: none;
+		}
